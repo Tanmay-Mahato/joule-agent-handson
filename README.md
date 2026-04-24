@@ -55,11 +55,14 @@ Fetches historical damage codes, cause codes, and maintenance orders for a speci
 
 ![Create Joule Skill dialog](images/image4.png)
 
-### Skill canvas — Trigger → End
+### 3.1 — Open the Skill Inputs Panel
 
 ![Skill canvas with Parameters panel](images/image5.png)
 
-> In the Start node's **Parameters** tab, disable **"Allow skill to be started directly by a user"** before adding the input.
+14. In the skill canvas, look at the right panel — you will see 'Skill Inputs' and 'Skill Outputs' sections.
+15. In the **General** tab, **Disable "Allow skill to be started directly by a user"**
+16. Click the + icon next to Skill Inputs.
+17. The Configure Skill Inputs dialog opens.
 
 ### Skill Input
 
