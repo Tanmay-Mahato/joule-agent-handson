@@ -72,7 +72,10 @@ Fetches historical damage codes, cause codes, and maintenance orders for a speci
 | --- | --- | --- | --- | --- | --- |
 | `equipment` | `equipment` | Equipment number to fetch fault history. | String | Yes | No |
 
-**Input Description (copy)**
+**Input (copy)**
+```
+equipment
+```
 ```
 Equipment number to fetch fault history.
 ```
