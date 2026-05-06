@@ -12,10 +12,10 @@ This README contains all the names, identifiers, descriptions, and instruction b
 
 **Name**
 ```
-Equipment Troubleshooting Agent XX
+Equipment Troubleshooting Agent GXX
 ```
 
-> Replace `XX` with your Group Number, For Group 1 name should be "*Equipment Troubleshooting Agent 01*".
+> Replace `XX` with your Group Number, For Group 1 name should be "*Equipment Troubleshooting Agent G01*".
 
 **Description**
 ```
